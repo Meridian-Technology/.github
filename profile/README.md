@@ -1,5 +1,6 @@
 # Meridian
-Welcome to the Meridian Github Org! Study Compass aims to provide a hub to help students study better on campus - whether it be helping students find a room based on their preferences, pairing up students looking to study together, or understanding a student’s study style and suggesting different study schedules. You can find the main repository [here](https://github.com/Meridian-Technology/Meridian), and the documentation [here](https://study-compass.github.io/Study-Compass-Documentation/)
+
+Meridian is a comprehensive student engagement platform that unifies essential campus services into a single, intuitive interface. By consolidating room booking, club management, and event coordination, Meridian transforms the fragmented student experience into a seamless journey that drives engagement, retention, and campus community building.
 
 ## Stack
 Frontend - React.js
